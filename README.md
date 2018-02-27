@@ -9,7 +9,7 @@ Description
 -----------
 C++ framework for building new datasets by aggregating images from different existing RGB-D datasets. The framework is described in:
 
-Petrelli A., Di Stefano L., "Learning to Weight Color And Depth for RGB-D Image Search", Accepted at International Conference on Image Analysis and Processing, 2017.
+Petrelli A., Di Stefano L., "Learning to Weight Color And Depth for RGB-D Image Search", International Conference on Image Analysis and Processing, 2017.
 
 Webpage
 -----------
